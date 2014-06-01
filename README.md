@@ -1,4 +1,4 @@
 TringJS
 =======
 
-JavaScript Framework based jQuery
+JavaScript Framework based on jQuery
